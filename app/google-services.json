@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382724417928",
+    "project_id": "dz-firestore-recyclerview",
+    "storage_bucket": "dz-firestore-recyclerview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382724417928:android:952711b1c9810f49bc723d",
+        "android_client_info": {
+          "package_name": "com.example.homework_firestore_recyclerview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSSSNyqIjoRuRmEOxTuBAgNd0ko9iIcOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
